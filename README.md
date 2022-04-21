@@ -1,6 +1,6 @@
 ## Hi Everyone,  I'm Shobhakar Tiwari . 
 
-<p align="left"> <img src="https://i.postimg.cc/kGV7vTFB/logo-stackoverflow.png" alt="shobhakartiwari" /> </p>
+<a href='https://postimg.cc/v1LLsBXV' target='_blank'><img src='https://i.postimg.cc/v1LLsBXV/shobhakar-git.gif' border='0' alt='shobhakar-git'/></a>
 
 ### About Me 
 
