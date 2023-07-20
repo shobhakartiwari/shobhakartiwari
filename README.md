@@ -1,26 +1,13 @@
-## Hi Everyone,  I'm Shobhakar Tiwari . 
+## Hi Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40">
 
-<a href='https://postimg.cc/v1LLsBXV' target='_blank'><img src='https://i.postimg.cc/v1LLsBXV/shobhakar-git.gif' border='0' alt='shobhakar-git'/></a>
+<img width="814" alt="Screenshot 2023-07-20 at 6 30 16 PM" src="https://github.com/shobhakartiwari/shobhakartiwari/assets/13196077/a784a681-3587-4f63-8362-25eabaeddb44" width="600" height="395">
+
 
 ### About Me 
 
-- I am passionate Mobile Application developer
-- Working on iOS , Android & Flutter.
-
-- I love to help developer community by answering questions on #SO ( StackOverflow).
-
-
-<table cellspacing="0" cellpadding="0" style="border:none;">
-  <tr>
-    <td>
-      <img align="center" src="https://i.postimg.cc/sXkX5XZB/Screenshot-2022-03-08-at-12-45-02-AM.png" alt="shobhakartiwari" />
-    </td>
-    <td>
-      <img align="center" src="https://i.postimg.cc/3NcrpPsy/Screenshot-2022-03-08-at-12-18-39-AM.png" alt="shobhakartiwari" />
-    </td>
-   </tr>
-</table>
-
+- 🌱 I’m currently : developing application for iOS & Android
+- 💬 Ask me about C, Swift, SwiftUI, UIKit, iOS Development.
+- 📫 How to reach me: skype(userid: shobhakar tiwari / stackoverflow </a>
 
 ## Languages and Tools I use
 <p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://i.postimg.cc/J4QVfw6j/icons8-xcode-48.png" alt="xd" width="40" height="40"/> </a> </p>
