@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently working on SWIFT-UI Reusable Components<br>I'm looking to collaborate on Swift projects<br>I'm currently learning visionOS and Swift Macros<br>Ask me about swift or anything you wanna learn
+- **Current Project**: Working on SwiftUI Reusable Components.
+- **Collaboration Interest**: Open to collaborating on Swift projects.
+- **Learning Focus**: Exploring VisionOS and Swift Macros.
+- **Expertise**: Ask me about Swift or anything you want to learn.
 
 ## 🚀 What I Do
 
