@@ -1,10 +1,20 @@
-# 💫 About Me:
-👋 Hello! I'm Shobhakar Tiwari, a seasoned Lead Mobile App Developer specializing in iOS development with Swift & Objective-C and SwiftUI , as well as Android Development with Kotlin and Jetpack Compose.
+# 👋 Hi there! Welcome to my GitHub profile! I'm **Shobhakar Tiwari**! 🚀
+📱 I'm a passionate mobile application developer with more than **10 years** of industry experience, specializing in creating innovative and user-friendly applications. I've honed my skills by working on a diverse range of projects and collaborating with various companies.
 
-- **Current Project**: Working on SwiftUI Reusable Components.
-- **Collaboration Interest**: Open to collaborating on Swift projects.
-- **Learning Focus**: Exploring VisionOS and Swift Macros.
-- **Expertise**: Ask me about Swift or anything you want to learn.
+🎓 I hold a master's degree from the **Guru Govind Singh Indraprastha University, New Delhi** in India 🇮🇳 , which has provided me with a strong foundation in both computer science and development. 
+
+🔧 My technical expertise, combined with an eye for design, enables me to create visually appealing and functional mobile applications that delight users and help clients achieve their goals.
+
+🌟 Always striving for excellence, I'm committed to making cool things and designs, and I'm eager to take on new challenges and explore the latest trends in mobile app development.
+
+🔗 Feel free to explore my repositories to get a taste of my work, and don't hesitate to get in touch if you have any questions or collaboration ideas. Happy coding! 🎉
+
+## What I work with on a daily basis
+- 🤍 iOS [PRIMARY SKILLS]
+- 💚 Android [SECONDARY SKILLS]
+- 💙 React-Native (for cross-platform , targetting both iOS & Android platforms.)
+- 🎨 Figma
+- 💎 Sketch
 
 ## 🚀 What I Do
 
