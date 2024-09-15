@@ -10,9 +10,12 @@
 🔗 Feel free to explore my repositories to get a taste of my work, and don't hesitate to get in touch if you have any questions or collaboration ideas. Happy coding! 🎉
 
 ## What I work with on a daily basis
-- 🤍 iOS [PRIMARY SKILLS]
-- 💚 Android [SECONDARY SKILLS]
-- 💙 React-Native (for cross-platform , targetting both iOS & Android platforms.)
+- 🍎 iOS [PRIMARY SKILLS]
+- 🤖 Android [SECONDARY SKILLS]
+- 📱 React-Native (for cross-platform, targeting both iOS & Android platforms)
+- 🟢 Node.js
+- 🚂 Express.js
+- 🍃 MongoDB
 - 🎨 Figma
 - 💎 Sketch
 
