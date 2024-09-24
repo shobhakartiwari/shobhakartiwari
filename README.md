@@ -13,9 +13,16 @@
 - 🍎 iOS [PRIMARY SKILLS]
 - 🤖 Android [SECONDARY SKILLS]
 - 📱 React-Native (for cross-platform, targeting both iOS & Android platforms)
+- KONY Mobile Visualizer
+- Kony Mobile Fabric
 - 🟢 Node.js
 - 🚂 Express.js
 - 🍃 MongoDB
+- 🍃 CouchBase-Lite
+- 🍃 Couchbase-DB
+- *  Quantum Metric
+- *  App Dynamics
+- *  Adobe Analytics
 - 🎨 Figma
 - 💎 Sketch
 
