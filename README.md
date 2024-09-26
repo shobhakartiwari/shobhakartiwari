@@ -25,7 +25,9 @@
 - *  Adobe Analytics
 - 🎨 Figma
 - 💎 Sketch
-
+- SonarCube
+- VeraCode
+  
 ## 🚀 What I Do
 
 - 💡 Client-Centric Problem Solver: Dedicated to delivering optimal solutions for clients' business needs, including innovative software solutions and user experiences.
