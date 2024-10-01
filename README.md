@@ -1,5 +1,5 @@
-# 👋 Hi there! Welcome to my GitHub profile! I'm **Shobhakar Tiwari**!
-📱 I'm a passionate mobile application developer with more than **10 years** of industry experience, specializing in creating innovative and user-friendly applications. I've honed my skills by working on a diverse range of projects and collaborating with various companies.
+# 👋 Hi there,  I'm **Shobhakar Tiwari**!
+📱 I'm a iOS Lead Consultant, and Mentor with over 10+ years of experience.
 
 🎓 I hold a master's degree from the **Guru Govind Singh Indraprastha University, New Delhi** in India 🇮🇳 , which has provided me with a strong foundation in both computer science and development. 
 
