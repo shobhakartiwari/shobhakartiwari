@@ -1,4 +1,7 @@
 # 👋 Hi there,  I'm **Shobhakar Tiwari**!
+[DM for iOS Mock interview](https://www.linkedin.com/in/shobhakar-tiwari/)</br>
+
+
 📱 I'm an iOS Lead Consultant, and Mentor with over 10+ years of experience.
 
 🎓 I hold a master's degree from the **Guru Govind Singh Indraprastha University, New Delhi** in India 🇮🇳 , which has provided me with a strong foundation in both computer science and development. 
