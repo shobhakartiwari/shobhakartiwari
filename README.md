@@ -2,15 +2,8 @@
 [DM for iOS Mock interview](https://www.linkedin.com/in/shobhakar-tiwari/)</br>
 
 
-📱 I'm an iOS Lead Consultant, and Mentor with over 10+ years of experience.
-
-🎓 I hold a master's degree from the **Guru Govind Singh Indraprastha University, New Delhi** in India 🇮🇳 , which has provided me with a strong foundation in both computer science and development. 
-
-🔧 My technical expertise, combined with an eye for design, enables me to create visually appealing and functional mobile applications that delight users and help clients achieve their goals.
-
-🌟 Always striving for excellence, I'm committed to making cool things and designs, and I'm eager to take on new challenges and explore the latest trends in mobile app development.
-
-🔗 Feel free to explore my repositories to get a taste of my work, and don't hesitate to get in touch if you have any questions or collaboration ideas. Happy coding! 🎉
+📱 I'm an iOS Lead Consultant, and Mentor with over 10+ years of experience.</br>
+🎓 I hold a master's degree, which has provided me with a strong foundation in both computer science and development. </br>
 
 ## What I work with on a daily basis
 - 🍎 iOS [PRIMARY SKILLS]
@@ -34,11 +27,8 @@
 ## 🚀 What I Do
 
 - 💡 Client-Centric Problem Solver: Dedicated to delivering optimal solutions for clients' business needs, including innovative software solutions and user experiences.
-
 - 🚀 Technical Expertise: My extensive technical experience, combined with strong analytical and problem-solving skills, empowers me to manage a project from its initial concept to client delivery.
-
 - 🌐 Full Project Lifecycle: I excel in every aspect of project management, starting from business analysis of requirements, through UX research, design, and user interface prototyping, to software development and system supervision in production.
-
 - 👥 Collaboration Skills: I can work directly with clients, stakeholders, and management teams, understanding their vision, analyzing project requirements, collaborating with UX/UI design teams, implementing code, and overseeing systems in production.
 
 ## Key Strengths
