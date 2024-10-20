@@ -1,5 +1,5 @@
-# 👋 Hi there,  I'm **Shobhakar Tiwari**!
-[DM for iOS Mock interview](https://www.linkedin.com/in/shobhakar-tiwari/)</br>
+# 👋 Hi there,  I'm **Shobhakar Tiwari**! [![](https://visitcount.itsvg.in/api?id=shobhakartiwari&icon=0&color=0)](https://visitcount.itsvg.in)
+[DM for iOS Mock interview](https://www.linkedin.com/in/shobhakar-tiwari/)</br> 
 
 
 📱 I'm an iOS Lead Consultant, and Mentor with over 10+ years of experience.</br>
@@ -59,6 +59,6 @@ I'm passionate about creating meaningful and impactful mobile applications. Let'
 ![](https://github-contributor-stats.vercel.app/api?username=shobhakartiwari&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shobhakartiwari&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
