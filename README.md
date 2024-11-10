@@ -1,7 +1,3 @@
-<p align=left>
- <img width=100% height=auto src="https://github.com/user-attachments/assets/fcbb0722-71ad-4a5b-bddf-6008b63be335"/>
-</p>
-
 # 👋 Hi there,  I'm **Shobhakar Tiwari**! [![](https://visitcount.itsvg.in/api?id=shobhakartiwari&icon=0&color=0)](https://visitcount.itsvg.in)
 - [DM for iOS Mock interview on SKYPE](https://join.skype.com/invite/pY96fwNmrE6K)</br> 
 
