@@ -3,7 +3,7 @@
  
 - 🎓 I’m working in the USA 🇺🇸 and currently in the Central Standard Time Zone (CST). I’m a big fan of Apple, iOS, Swift, Objective-C, SwiftUI, Node.js,      Couchbase, open-source, and writing testable software 💻. When I’m not crushing bugs or building dreams, I enjoy writing blogs on Medium, contributing to the iOS dev community, and sharing iOS interview questions to support junior and senior iOS developers alike. 
 
-- In the past, I led iOS development at [United Airlines ](https://www.united.com/en/us), worked on apps such as [Inflight](https://apps.apple.com/us/app/united-airlines/id449945214), [United Airline MealOrder](https://apps.apple.com/us/app/united-airlines/id449945214), [United Airline P2P App](https://apps.apple.com/us/app/united-airlines/id449945214)  and created my own indie apps like [Banking Domain iOS Project](https://apps.apple.com/us/app/united-airlines/id449945214).
+- In the past, I led iOS development at [United Airlines ](https://www.united.com/en/us), worked on apps such as [Inflight](https://apps.apple.com/us/app/united-airlines/id449945214), [United Airline MealOrder](https://apps.apple.com/us/app/united-airlines/id449945214), [United Airline P2P App](https://apps.apple.com/us/app/united-airlines/id449945214)  and created custom peer to peer framework using apple wifi direct and bluetooth and also [Banking Domain iOS Project](https://apps.apple.com/us/app/united-airlines/id449945214).
 
 - [🚀 I've launched  **mock.iOS**, a program you can join to save significant time preparing for iOS interviews and building apps for Apple platforms.](https://linktr.ee/ShobhakarTiwari)
 
@@ -12,7 +12,7 @@
   
 - 💻 I have also created many popular repository for helping iOS Developers to prepare iOS Interviews such as [iOS Lead Interview Questions](https://github.com/shobhakartiwari/iOS_Lead_Interview.git), [iOS Junior Interview Questions](https://github.com/shobhakartiwari/iOS_Junior_Level_Interview_Questions.git).
   
-- 📝  I blog about programming [here](https://medium.com/@shobhakartiwari).
+- 📝  I blog about iOS and Swift programming [here](https://medium.com/@shobhakartiwari).
 
 [If you feel my contributions are valuable, you’re welcome to sponsor my work, Click this link to send message](https://linktr.ee/ShobhakarTiwari)
 
