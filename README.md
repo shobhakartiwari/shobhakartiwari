@@ -7,6 +7,9 @@
 
 - [🚀 I've launched  **mock.iOS**, a program you can join to save significant time preparing for iOS interviews and building apps for Apple platforms.](https://linktr.ee/ShobhakarTiwari)
 
+
+- [🚀🎯 Why iOS Mock Sessions Matter?](https://medium.com/@shobhakartiwari/why-ios-mock-sessions-matter-d6d33e661ad6)
+
 ## Community Work
 - 🗣 I've mentored numerous iOS developers and actively contributed to the [Stack Overflow developer community](https://stackoverflow.com/users/3400991/shobhakar-tiwari?tab=profile). I have [🎉 #1Million Views on #StackOverflow!🎉](https://stackoverflow.com/users/3400991/shobhakar-tiwari?tab=profile)
   
