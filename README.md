@@ -1,6 +1,6 @@
 ### Hi there 👋 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![](https://visitcount.itsvg.in/api?id=shobhakartiwari&icon=0&color=0)](https://visitcount.itsvg.in)         
 - I'm an iOS Lead Consultant, and Mentor with over 10+ years of experience.  </br>   
-- My Virtual Resume + Work Experience : [Shobhakar Work Summary](https://youtu.be/byYefobU1b8?si=8R9Ful9AQgXgN_0r)
+- My Virtual Resume + Work Experience : [Shobhakar Work Summary](https://youtu.be/byYefobU1b8?si=8R9Ful9AQgXgN_0r)  
 - 🎓 I’m working in the USA 🇺🇸 and currently in the Central Standard Time Zone (CST). I’m a big fan of Apple, iOS, Swift, Objective-C, SwiftUI, Node.js,      Couchbase, open-source, and writing testable software 💻. When I’m not crushing bugs or building dreams, I enjoy writing blogs on Medium, contributing to the iOS dev community, and sharing iOS interview questions to support junior and senior iOS developers alike. 
 
 - In the past, I led iOS development at [United Airlines ](https://www.united.com/en/us), worked on apps such as [Inflight](https://apps.apple.com/us/app/united-airlines/id449945214), [United Airline MealOrder](https://apps.apple.com/us/app/united-airlines/id449945214), [United Airline P2P App](https://apps.apple.com/us/app/united-airlines/id449945214)  and created custom peer to peer framework using apple wifi direct and bluetooth and also [Banking Domain iOS Project](https://apps.apple.com/us/app/united-airlines/id449945214).
