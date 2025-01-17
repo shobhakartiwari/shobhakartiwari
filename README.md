@@ -26,13 +26,12 @@
   
 ## My Expertise
 - 📋  As a consultant, I usually:
-  - 🤔  Perform code reviews for entire projects and provide clients with practical recommendations to improve their team efficiency and satisfaction (through better development experience and tools)
+  - 🤔  Perform code reviews and provide clients with practical recommendations to improve their team efficiency and satisfaction (through better development experience and tools)
   - 🧙 Writing Code in Swift & SwiftUI.
 - 👥 Help establish best practices and provide architecture recommendations
 - 👥 Establishing best practices for architecture, testing, and workflows
 - 🛠️ Review production bugs & come up with RCA (root cause analysis) document.
 - 👥 Handling offshore & on-shore teams.
-
   
 ## Talking with Me
 - [DM for iOS Mock interview on SKYPE](https://join.skype.com/invite/pY96fwNmrE6K)</br> 
@@ -40,11 +39,7 @@
 - [Explore my work](https://linktr.ee/ShobhakarTiwari)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shobhakar-tiwari/)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shobhakartiwari) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/3400991/shobhakar-tiwari) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ShobhakarTiwari) 
 
-# ✍️ I've written about
-- https://medium.com/@shobhakartiwari/mastering-ios-debugging-essential-tools-and-techniques-for-swift-developers-366637d42753
-- https://medium.com/@shobhakartiwari/strategies-for-successful-mobile-app-delivery-as-a-lead-5ec06ef0859d
-- https://medium.com/@shobhakartiwari/how-to-revert-accidentally-pushed-code-in-git-a-guide-for-different-work-scenarios-3b381964a8ed
-- https://medium.com/@shobhakartiwari/the-anatomy-of-a-good-engineer-beyond-coding-c1aec422b2e1
-- https://medium.com/@shobhakartiwari/swiftui-interview-questions-7a8c2c70bbc8
+# ✍️ I've authored technical blogs on iOS, Swift, and iOS app development -
+- [https://medium.com/@shobhakartiwari/mastering-ios-debugging-essential-tools-and-techniques-for-swift-developers-366637d42753](https://medium.com/@shobhakartiwari)
 
 - Credit:: I follow [Krzysztof Zabłocki](https://www.merowing.info/) and his Github and take help from his work to learn and grow.
