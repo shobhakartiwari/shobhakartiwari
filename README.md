@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋   &nbsp;![](https://komarev.com/ghpvc/?username=shobhakartiwari&color=brightgreen)
                                      
 ![ïOS MOCK zip - 1](https://github.com/user-attachments/assets/0bacf4e8-0655-4227-a591-9f07651bed01)  
   
@@ -42,7 +42,7 @@
 # ✍️ I've authored technical blogs on iOS, Swift, and iOS app development -
 - [https://medium.com/@shobhakartiwari/mastering-ios-debugging-essential-tools-and-techniques-for-swift-developers-366637d42753](https://medium.com/@shobhakartiwari)
 
-&nbsp;![](https://komarev.com/ghpvc/?username=shobhakartiwari&color=brightgreen)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shobhakartiwari&show_icons=true&locale=en" alt="shobhakartiwari" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobhakartiwari&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
 </p> 
