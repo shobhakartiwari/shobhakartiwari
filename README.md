@@ -18,8 +18,7 @@
 
 ### About Me
 
-I’m an iOS Engineer focused on Apple platforms. I build scalable, human-centered mobile experiences and am currently exploring the intersection of **Mobile + AI**.
-
+I’m an iOS Engineer with a strong foundation in Apple technologies, now evolving my work by building intelligent apps that blend Mobile and AI.
 ### Work Experience
 
 - [Watch My Work Summary](https://youtu.be/byYefobU1b8?si=8R9Ful9AQgXgN_0r)
