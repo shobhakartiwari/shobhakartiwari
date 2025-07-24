@@ -1,27 +1,50 @@
-### Hi there 👋   &nbsp;![](https://komarev.com/ghpvc/?username=shobhakartiwari&color=brightgreen)      
-                                                                     
-![ïOS MOCK zip - 1](https://github.com/user-attachments/assets/6c00571a-063e-462a-bb57-e5e96c9492b8)                                           
-- I'm an iOS Lead Consultant, and Mentor with over 10+ years of experience.  </br>                              
-- My Virtual Resume + Work Experience : [Shobhakar Work Summary](https://youtu.be/byYefobU1b8?si=8R9Ful9AQgXgN_0r)  
-- 🎓 I’m working in the USA 🇺🇸 and currently in the Central Standard Time Zone (CST). I’m a big fan of Apple, iOS, Swift, Objective-C, SwiftUI, Node.js,      Couchbase, open-source, and writing testable software 💻. When I’m not crushing bugs or building dreams, I enjoy writing blogs on Medium, contributing to the iOS dev community, and sharing iOS interview questions to support junior and senior iOS developers alike. 
+<!-- GitHub Profile README for Shobhakar Tiwari -->
 
-## Community Work
-- 🗣 I've mentored numerous iOS developers and actively contributed to the [Stack Overflow developer community](https://stackoverflow.com/users/3400991/shobhakar-tiwari?tab=profile). I have [🎉 #1Million Views on #StackOverflow!🎉](https://stackoverflow.com/users/3400991/shobhakar-tiwari?tab=profile)
-  
-- 💻 I have also created many popular repository for helping iOS Developers to prepare iOS Interviews such as [iOS Lead Interview Questions](https://github.com/shobhakartiwari/iOS_Lead_Interview.git), [iOS Junior Interview Questions](https://github.com/shobhakartiwari/iOS_Junior_Level_Interview_Questions.git).
-  
-- 📝  I blog about iOS and Swift programming [here](https://medium.com/@shobhakartiwari).
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shobhakartiwari&color=brightgreen" alt="Profile Views" />
+</p>
 
-[If you feel my contributions are valuable, you’re welcome to sponsor my work, Click this link to send message](https://linktr.ee/ShobhakarTiwari)
-  
-## Talking with Me
-- [DM for iOS Mock interview on SKYPE](https://join.skype.com/invite/pY96fwNmrE6K)</br> 
-- [My Email](mailto:st.shubh.tiwari@gmail.com)
-- [Explore my work](https://linktr.ee/ShobhakarTiwari)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shobhakar-tiwari/)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shobhakartiwari) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/3400991/shobhakar-tiwari) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ShobhakarTiwari) 
+<h1 align="center" style="font-weight: 600;">Shobhakar Tiwari</h1>
+<h3 align="center" style="font-weight: 400; color: #555;">iOS Engineer · M.S. in Computer Science · Technical Writer</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shobhakartiwari&show_icons=true&locale=en" alt="shobhakartiwari" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobhakartiwari&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
-</p> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/shobhakar-tiwari/">LinkedIn</a> • 
+  <a href="https://medium.com/@shobhakartiwari">Medium</a> • 
+  <a href="https://stackoverflow.com/users/3400991/shobhakar-tiwari">Stack Overflow</a> • 
+  <a href="https://twitter.com/ShobhakarTiwari">Twitter</a>
+</p>
 
-- Credit:: I follow [Krzysztof Zabłocki](https://www.merowing.info/) and his Github and take help from his work to learn and grow.
+---
+
+### About Me
+
+I’m an iOS Engineer focused on Apple platforms. I build scalable, human-centered mobile experiences and am currently exploring the intersection of **Mobile + AI**.
+
+### Work Experience
+
+- [Watch My Work Summary](https://youtu.be/byYefobU1b8?si=8R9Ful9AQgXgN_0r)
+- [Explore My Portfolio](https://linktr.ee/ShobhakarTiwari)
+- Contact me: [st.shubh.tiwari@gmail.com](mailto:st.shubh.tiwari@gmail.com)
+
+### Community Contributions
+
+- Helped numerous developers via mentoring and technical discussions
+- Reached **1M+ views on Stack Overflow**  
+  [View Profile](https://stackoverflow.com/users/3400991/shobhakar-tiwari?tab=profile)
+
+#### Open Source Projects
+
+- [iOS Lead Interview Questions](https://github.com/shobhakartiwari/iOS_Lead_Interview.git)  
+- [iOS Junior Interview Questions](https://github.com/shobhakartiwari/iOS_Junior_Level_Interview_Questions.git)
+
+### Writing
+
+- I share insights about iOS and Swift development on [Medium](https://medium.com/@shobhakartiwari)
+
+---
+
+<div align="center">
+  <p style="font-size: 14px; color: #666;">
+    Inspired by the craft of <a href="https://www.merowing.info/">Krzysztof Zabłocki</a> and other pioneers in the Apple dev space.
+  </p>
+</div>
