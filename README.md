@@ -23,7 +23,7 @@ I’m an iOS Engineer with a strong foundation in Apple technologies, now evolvi
 
 - [Watch My Work Summary](https://youtu.be/byYefobU1b8?si=8R9Ful9AQgXgN_0r)
 - [Explore My Portfolio](https://linktr.ee/ShobhakarTiwari)
-- Contact me: [st.shubh.tiwari@gmail.com](mailto:st.shubh.tiwari@gmail.com)
+- Contact me: [E-mail](mailto:st.shubh.tiwari@gmail.com)
 
 ### Community Contributions
 
