@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/shobhakar-tiwari/">LinkedIn</a> • 
   <a href="https://medium.com/@shobhakartiwari">Medium</a> • 
   <a href="https://stackoverflow.com/users/3400991/shobhakar-tiwari">Stack Overflow</a> • 
-  <a href="https://twitter.com/ShobhakarTiwari">Twitter</a>
+  <a href="https://x.com/CodeWidShobhakr">Twitter</a>
 </p>
 
 ---
