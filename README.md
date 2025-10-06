@@ -19,6 +19,12 @@
 ### About Me
 
 I’m an iOS Engineer with a strong foundation in Apple technologies, now evolving my work by building intelligent apps that blend Mobile and AI.
+
+### Tech-Stack
+- **Apple Platforms**: iOS, macOS, Apple Watch, Apple TV, VisionOS/ARKit
+- **Programming & Architecture**: Swift, SwiftUI, Objective-C, Combine, CoreData, CloudKit, MVVM-C, Clean Architecture
+- **Design & UX**: UI/UX design, accessibility, inclusive design, User Testing
+
 ### Work Experience
 
 - [Watch My Work Summary](https://youtu.be/byYefobU1b8?si=8R9Ful9AQgXgN_0r)
